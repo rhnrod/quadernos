@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rhnrod.github.io/quadernos/sitemap.xml
