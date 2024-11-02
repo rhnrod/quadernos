@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Autoral on Quadernos</title>
-    <link>//localhost:1313/quadernos/tags/autoral/</link>
+    <link>http://localhost:1313/quadernos/tags/autoral/</link>
     <description>Recent content in Autoral on Quadernos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>rhnrod@gmail.com (Rhuan Emanuel)</managingEditor>
     <webMaster>rhnrod@gmail.com (Rhuan Emanuel)</webMaster>
     <copyright>© 2024 Rhuan Emanuel</copyright>
-    <lastBuildDate>Sat, 02 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/quadernos/tags/autoral/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/quadernos/tags/autoral/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Roda I</title>
-      <link>//localhost:1313/quadernos/poemas/1730577899810-roda-i/</link>
+      <link>http://localhost:1313/quadernos/poemas/1730577899810-roda-i/</link>
       <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
       <author>rhnrod@gmail.com (Rhuan Emanuel)</author>
-      <guid>//localhost:1313/quadernos/poemas/1730577899810-roda-i/</guid>
+      <guid>http://localhost:1313/quadernos/poemas/1730577899810-roda-i/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/quadernos/poemas/1730577899810-roda-i/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/quadernos/poemas/1730577899810-roda-i/featured.png" />
     </item>
     
   </channel>
