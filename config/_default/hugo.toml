@@ -6,7 +6,7 @@ summaryLength = 0
 buildDrafts = false
 buildFuture = false
 enableEmoji = true
-baseURL = "rhnrod.github.io/quadernos"
+baseURL = "https://rhnrod.github.io/quadernos"
 
 [imaging]
 anchor = "Center"
