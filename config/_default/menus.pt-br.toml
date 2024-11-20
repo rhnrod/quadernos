@@ -25,11 +25,11 @@
 #  pageRef = "posts"
 #  weight = 20
 
-# [[main]]
-#  name = "Artigos"
-#  parent = "Blog"
-#  pageRef = "posts"
-#  weight = 20
+ [[main]]
+  name = "Artigos"
+  parent = "Blog"
+  pageRef = "posts"
+  weight = 20
 
 [[main]]
   name = "Poemas"
@@ -78,12 +78,12 @@
    pageRef = "tags"
    weight = 10
 
-# [[footer]]
-#   name = "Categorias"
-#   pageRef = "categories"
-#   weight = 20
+ [[footer]]
+   name = "Categorias"
+   pageRef = "categories"
+   weight = 20
 
-# [[footer]]
-#   name = "Séries"
-#   pageRef = "series"
-#   weight = 30
+ [[footer]]
+   name = "Séries"
+   pageRef = "series"
+   weight = 30

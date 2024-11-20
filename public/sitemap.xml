@@ -3,14 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/quadernos/poemas/1732113769877-as-cinzas/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/quadernos/poemas/</loc>
-    <lastmod>2024-11-02T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/quadernos/</loc>
-    <lastmod>2024-11-02T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/quadernos/posts/1730827504917-estou-lendo---mem%C3%B3rias-p%C3%B3stumas-de-br%C3%A1s-cubas/</loc>
+    <lastmod>2024-11-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/quadernos/posts/</loc>
+    <lastmod>2024-11-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
