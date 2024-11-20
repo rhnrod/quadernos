@@ -1,7 +1,7 @@
 ---
 title: "Estou lendo #1 - Memórias Póstumas de Brás Cubas"
 date: 2024-11-05
-draft: false
+draft: true
 description: "a description"
 tags: ["Machado de Assis", "Literatura Brasileira"]
 categories: ["O que estou lendo"]
